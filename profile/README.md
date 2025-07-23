@@ -27,9 +27,8 @@ AI기반의 기상예측, 하천의 홍수예측, MLOps를 이용한 지속가�
 
 ## 📂 Repository 구성
 
-- **flood-agent/
-- **rainfall-forecast/
-- whg
+- 기상예측 repo: [DeepRaNE](https://github.com/Flood-Agent-AI-Champion/DeepRaNE), [ASOC](https://github.com/Flood-Agent-AI-Champion/ASOC)
+- 하천수위 예측 및 MLOps repo:  [neuralriverops](https://github.com/Flood-Agent-AI-Champion/neuralriverops)
 
 
 📬 연락하기
