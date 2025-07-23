@@ -4,8 +4,8 @@
 
 ## 🔍 About Us
 
-**F<sup>2</sup>.L.O.O.D (Flood Framework for Learning, Ochestration, Operation and Decision-making) Agent Team**는 
-AI기반의 기상예측, 하천의 홍수예측, MLOps를 이용한 지속가능한 시스템의 개발 및 Agentic AI를 활용한 LLM기반 모델의 실행 및 결과분석을 목표로 하고 있고 있습니다.
+**F<sup>2</sup>.L.O.O.D (Flood Framework for Learning, Ochestration, Operation and Decision-making) Agent Team**은 
+AI기반의 기상예측, 하천의 홍수예측, MLOps를 이용한 지속가능한 시스템의 개발 및 Agentic AI를 활용한 LLM기반 모델의 실행 및 결과분석을 목표로 하고 있습니다.
   
 🙌 팀원 소개
 | 이름  | 소속기관         | 직위                   | 
