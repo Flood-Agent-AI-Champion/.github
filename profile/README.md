@@ -34,4 +34,4 @@ AI기반의 기상예측, 하천의 홍수예측, MLOps를 이용한 지속가�
 📬 연락하기
 GitHub Issue 또는 Discussions를 통해 질문 및 피드백을 주세요!
 
-팀 대표 이메일: lukechoigoal@gmail.com or choiyd1115@kwater.or.kr
+📬 팀 대표 이메일: lukechoigoal@gmail.com or choiyd1115@kwater.or.kr
